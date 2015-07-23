@@ -3,7 +3,7 @@
   
     {
       "title"			: "Under Construction",
-      "link"			: "http://bilgezeke.github.io//blog/hello-world/",
+      "link"			: "http://bilgekose.github.io//blog/hello-world/",
       "excerpt"		: ""
     }
   
@@ -11,7 +11,7 @@
   
     ,{
       "title"			: "Test Post",
-      "link"			: "http://bilgezeke.github.io//articles/JID2014/",
+      "link"			: "http://bilgekose.github.io//articles/JID2014/",
       "excerpt"		: "This is a test post"
     }
   
@@ -33,7 +33,7 @@
   
     ,{
       "title"			: "Bilge Kose - bilgezeke",
-      "link"			: "http://bilgezeke.github.io//about/",
+      "link"			: "http://bilgekose.github.io//about/",
       "excerpt"		: "Personal Information"
     }
   
@@ -41,7 +41,7 @@
   
     ,{
       "title"			: "Theme Setup",
-      "link"			: "http://bilgezeke.github.io//theme-setup/",
+      "link"			: "http://bilgekose.github.io//theme-setup/",
       "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
     }
   
@@ -49,7 +49,7 @@
   
     ,{
       "title"			: "Search",
-      "link"			: "http://bilgezeke.github.io//search/",
+      "link"			: "http://bilgekose.github.io//search/",
       "excerpt"		: ""
     }
   
