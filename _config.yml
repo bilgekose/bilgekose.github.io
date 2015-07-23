@@ -5,7 +5,7 @@ locale: en_US
 description: This will be my both personal and academic website. I will try to keep up-to-date as much as I can. Hopefully a blog will be included too.
 logo: slowloris.png
 search: true
-url: http://127.0.0.1:4000/  #
+url: http://bilgezeke.github.io/ #http://127.0.0.1:4000/  #
 
 # Jekyll configuration
 
@@ -35,7 +35,7 @@ owner:
   avatar: slowloris.png
   email: bilgekasli-at-gmail.com
   disqus-shortname: 
-  twitter: #username
+  twitter: bilgezeke
   facebook: kkose
   github: kkose
   stackexchange: #http://stackoverflow.com/users/123456/username
