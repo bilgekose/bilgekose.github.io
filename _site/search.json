@@ -3,6 +3,30 @@
   
     {
       "title"			: "Under Construction",
+      "link"			: "http://bilgekose.github.io//portfolio/hello-world%20copy%203/",
+      "excerpt"		: "virt zirt"
+    }
+  
+
+  
+    ,{
+      "title"			: "Under Construction",
+      "link"			: "http://bilgekose.github.io//blog/hello-world%20copy%203/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Under Construction",
+      "link"			: "http://bilgekose.github.io//blog/hello-world%20copy/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Under Construction",
       "link"			: "http://bilgekose.github.io//blog/hello-world/",
       "excerpt"		: ""
     }
@@ -16,6 +40,14 @@
     }
   
 
+  
+    ,{
+      "title"			: "Ilk post",
+      "link"			: "http://bilgekose.github.io//blog/hello-world%20copy%202/",
+      "excerpt"		: "Burada benim ilk postum var"
+    }
+  
+
 
 
   
@@ -26,6 +58,12 @@
 
   
 
+  
+    ,{
+      "title"			: "Search",
+      "link"			: "http://bilgekose.github.io//search/",
+      "excerpt"		: ""
+    }
   
 
   
@@ -39,6 +77,8 @@
   
 
   
+
+  
     ,{
       "title"			: "Theme Setup",
       "link"			: "http://bilgekose.github.io//theme-setup/",
@@ -46,12 +86,6 @@
     }
   
 
-  
-    ,{
-      "title"			: "Search",
-      "link"			: "http://bilgekose.github.io//search/",
-      "excerpt"		: ""
-    }
   
 
   
